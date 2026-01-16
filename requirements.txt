@@ -1,4 +1,3 @@
 streamlit
 openai
 lunar-python
-git+https://github.com/kentang2017/kinqimen.git
