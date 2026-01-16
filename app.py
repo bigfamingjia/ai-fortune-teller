@@ -5,7 +5,7 @@ from datetime import datetime
 
 # --- 1. 页面配置 ---
 st.set_page_config(
-    page_title="DeepSeek 命理大师"，
+    page_title="DeepSeek AI Master"，
     page_icon="☯️"，
     layout="wide"，
     initial_sidebar_state="expanded"
