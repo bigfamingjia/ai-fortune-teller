@@ -4,6 +4,7 @@ from lunar_python import Solar, Lunar, I18n
 from datetime import datetime
 
 # --- 1. 页面配置 ---
+# 注意：这里的逗号必须是英文的 ","
 st.set_page_config(
     page_title="DeepSeek 命理大师"，
     page_icon="☯️"，
